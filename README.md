@@ -103,7 +103,7 @@ This project is licensed under the MIT License.
 ---
 
 ## Author  
-- **Your Name** – [GitHub Profile](https://github.com/your_username)
+- **Faiq latheef** – [GitHub Profile](https://github.com/Faiqlatheef)
 
 ---
 
